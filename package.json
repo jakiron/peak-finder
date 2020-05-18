@@ -1,0 +1,25 @@
+{
+  "name": "peak-finder",
+  "version": "1.0.0",
+  "description": "A JavaScript package to find the local peak in a 1-dimensional or 2-dimensional array.",
+  "main": "peakFinder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakiron/peak-finder.git"
+  },
+  "keywords": [
+    "local",
+    "peak",
+    "find",
+    "finder"
+  ],
+  "author": "Goudam Muralitharan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakiron/peak-finder/issues"
+  },
+  "homepage": "https://github.com/jakiron/peak-finder#readme"
+}
