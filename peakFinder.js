@@ -71,10 +71,9 @@ const findPeakInMatrix = matrix => {
 
 const peakFinder = input => {
     const dimensions = getDimensions(input);
-    console.log(dimensions);
     if(!dimensions) return -1;
     else if(dimensions === 1) return findPeakInArray(input);
     return findPeakInMatrix(input);
 };
 
-export default peakFinder;
+module.exports = peakFinder;
