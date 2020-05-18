@@ -1,6 +1,6 @@
 {
   "name": "peak-finder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A JavaScript package to find the local peak in a 1-dimensional or 2-dimensional array.",
   "main": "peakFinder.js",
   "scripts": {
